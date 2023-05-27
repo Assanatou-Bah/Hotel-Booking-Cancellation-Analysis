@@ -1,5 +1,5 @@
 ### Date created
-Created on May 19, 2023
+Created on May 2023
 
 
 ### Project Title
@@ -21,7 +21,6 @@ Overall Cancellation Overview:
 •	Total Bookings
 •	Cancelled Bookings
 •	Non- Cancelled Bookings
-•	Cancellation Rate
 
 Cancellation Reasons:
 •	Cancellation Reasons 
