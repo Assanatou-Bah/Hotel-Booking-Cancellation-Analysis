@@ -18,17 +18,17 @@ The goal of this analysis was to gain insights into the factors influencing book
 Factors Analyzed:
 
 Overall Cancellation Overview:
-    Total Bookings
-    Cancelled and Non-Cancellation Bookings
-    Cancellation rates
+Total Bookings
+Cancelled and Non-Cancellation Bookings
+Cancellation rates
 
 Cancellation Reasons:
-    Cancellation Reasons 
+Cancellation Reasons 
 
 Lead Time and Cancellations:
-    Average Lead Time for cancelled Bookings
-    Average Lead Time for non-cancelled Bookings
-    Relationship between the Lead
+Average Lead Time for cancelled Bookings
+Average Lead Time for non-cancelled Bookings
+Relationship between the Lead
 
 
 ### Dataset used
