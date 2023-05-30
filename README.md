@@ -25,6 +25,9 @@ Cancellation rates
 Cancellation Reasons:
 Cancellation Reasons 
 
+Booking Channels:
+Percentage of different Market Segments
+
 Lead Time and Cancellations:
 Average Lead Time for cancelled Bookings
 Average Lead Time for non-cancelled Bookings
